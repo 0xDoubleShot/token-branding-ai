@@ -1,1 +1,7 @@
-
+{
+  "memes": ["Shiba", "Pepe", "Doge", "Wojak", "Chad", "Cope", "Giga", "Zoomer"],
+  "ai_terms": ["AI", "Neural", "AGI", "Smart", "LLM", "AutoGPT", "LangChain"],
+  "animals": ["Dog", "Cat", "Frog", "Monkey", "Rabbit", "Duck", "Bear"],
+  "emojis": ["🚀", "🌐", "🐶", "🧠", "🤖", "💥", "🔥", "💸", "🐸", "🪙"]
+}
+"Add main script"
