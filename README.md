@@ -29,3 +29,4 @@ Enter your token name: Pumpi
 # token-branding-ai
 AI-powered meme token branding generator
 "Update README"
+-------------
